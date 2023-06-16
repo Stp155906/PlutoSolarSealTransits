@@ -1,6 +1,6 @@
 # Mayan Timekeeper Solar Seal Transits
 
-#### Astrology Cacique Scripts
+#### Astrology Zemi Scripts
 
 >
 >
