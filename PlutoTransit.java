@@ -49,6 +49,8 @@ public class PlutoTransit {
         int desiredZodiac = scanner.nextInt();
         scanner.nextLine();
 
+        // the rest of the steps:
+
         // TODO: Retrieve the desired period data using the get method on the
         // transitData map
 
